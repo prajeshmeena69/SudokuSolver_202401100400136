@@ -74,4 +74,4 @@ After solving:
 Feel free to contribute by submitting **pull requests** or reporting **issues**!
 
 ## 📜 License
-This project is licensed under the **KIET License**.
+This project is licensed under the **MIT License**.
